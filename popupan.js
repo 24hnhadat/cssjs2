@@ -2,7 +2,7 @@
 	var url_popup = 'http://www.24hnhadat.vn/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'http://www.24hnhadat.vn/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
